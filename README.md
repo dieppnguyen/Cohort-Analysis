@@ -33,7 +33,7 @@ The input data is the KPMG transaction data file (HomeTest 1 - KPMG Data) as fol
 
 ## Result
 
-* Although this result is different from most other people's results and different from the answer I received, after a period of thinking, I still decided to keep this result. The reason is that I am not convinced by their way of calculating the number of months of participation for each customer. Or maybe from the perspective of a researcher who always wants everything to be calculated in detail, and has absolutely no background in economics like me, so my understanding of the problem is not correct. I look forward to receiving comments that will help me shed more light on this issue. *
+*Although this result is different from most other people's results and different from the answer I received, after a period of thinking, I still decided to keep this result. The reason is that I am not convinced by their way of calculating the number of months of participation for each customer. Or maybe from the perspective of a researcher who always wants everything to be calculated in detail, and has absolutely no background in economics like me, so my understanding of the problem is not correct. I look forward to receiving comments that will help me shed more light on this issue.*
 
 - Visualize customer retention rates
 
