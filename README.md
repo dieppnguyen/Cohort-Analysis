@@ -37,4 +37,9 @@ The input data is the KPMG transaction data file (HomeTest 1 - KPMG Data) as fol
 
 - Visualize customer retention rates
 
+![Screenshot 2023-09-13 173321](https://github.com/dieppnguyen/Cohort-Analysis/assets/142650906/e4241b2e-72fe-4f81-a971-919a2c3b86a7)
+
+
 - Some customer retention assessments derived from visualization
+
+![Screenshot 2023-09-13 173437](https://github.com/dieppnguyen/Cohort-Analysis/assets/142650906/cb11a417-f407-47a8-9b6b-e45b5f0b4aad)
